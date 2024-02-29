@@ -1,0 +1,2 @@
+print("tengo")
+print("kimeridze")
